@@ -4,7 +4,7 @@
 
 Head :arrow_up:
 
-```<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">```<br/>
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jkprojects777/Librairies@main/swiper-global-v9-0-5.css">```<br/>
 
 Body :arrow_right_hook:
 
