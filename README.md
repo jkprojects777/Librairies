@@ -1,6 +1,6 @@
 # LIBRAIRIES
 
-:card_index: ## SWIPER
+## :card_index: SWIPER
 
 :arrow_up: Head
 
@@ -12,7 +12,7 @@
 ```<script src="https://unpkg.com/swiper@8/swiper-bundle.js"></script>```<br/>
 
 
-:bar_chart: ## D3
+## :bar_chart: D3
 
 :arrow_right_hook: Body
 
