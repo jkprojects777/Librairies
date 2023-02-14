@@ -5,7 +5,6 @@
 Head :arrow_up:
 
 ```<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">```<br/>
-```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jkprojects777/css@main/custom-swiper.css">```
 
 Body :arrow_right_hook:
 
